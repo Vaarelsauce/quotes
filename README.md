@@ -508,3 +508,9 @@ Mark Hatfield
 Dorian Sommerfeld
 
 ---
+
+> Lorem ipsum.
+
+Author Lastname
+
+---
